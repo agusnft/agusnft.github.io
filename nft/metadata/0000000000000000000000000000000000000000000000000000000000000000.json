@@ -1,1 +1,34 @@
-Hi
+{
+    "image": "https://raw.githubusercontent.com/agusnft/agusnft.github.io/main/nft/assets/agusnft-logo.png?w=500&auto=format",
+    "name": "Welcome to agusNFT",
+    "description": "Hello world! welcome to agusNFT. This is the first my nft ☺️",
+    "external_link": "https://agusnft.github.com",
+    "animation_url": "https://raw.githubusercontent.com/agusnft/agusnft.github.io/main/nft/assets/background.gif?w=auto&h=auto",
+    "background_color": "800080",
+    "traits": [
+        {
+            "trait_type": "Twitter",
+            "value": "@agus_sfd",
+            "display_type": "follow",
+            "max_value": null,
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Instagram",
+            "value": "@agusnftinfo",
+            "display_type": "follow",
+            "max_value": null,
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Rating",
+            "value": "4",
+            "display_type": "number",
+            "max_value": 5.0,
+            "trait_count": 99,
+            "order": null
+        }
+    ]
+}
